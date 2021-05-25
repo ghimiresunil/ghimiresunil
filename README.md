@@ -23,8 +23,8 @@ During Bachelor in Computer Engineering, I started instagram page and website ba
 
 💬 **Stay Connected**
 
-<a href="https://sunilghimire.com.np/>
-  <img align="left" alt="Sunil Ghimire | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
+<a href="https://sunilghimire.com.np">
+  <img align="left" alt="Diwas | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/ghimiresunil/">
@@ -35,16 +35,5 @@ During Bachelor in Computer Engineering, I started instagram page and website ba
   <img align="left" alt="Sunil Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />
 </a>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">     <a href="https://diwaspandey.com.np">
-  <img align="left" alt="Diwas | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/diwas424/">
-  <img align="left" alt="Diwas LinkdeIN" width="22px" src="https://www.pngfind.com/pngs/m/57-571935_linkedin-icon-vector-png-linkedin-circle-logo-transparent.png" />
-</a>
-
-<a href="https://www.instagram.com/aihub_/">
-  <img align="left" alt="Diwas Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />
-</a>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=Diwas524.Diwas524" alt="Visitors Counter">                                                   
+<img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
+                                              
