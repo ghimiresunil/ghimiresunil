@@ -2,6 +2,10 @@
 
 Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [@GRASCOING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. Beside's programming, I enjoy literature and traveling.
 
+#### A bit deeper about myself. 
+
+I am algorithm lover. This sprouted because I am mainly interested in how things work the way they work. For example: If you give me an algorithm and they say that this works for a particular problem- my question would be how does it work? What’s the idea behind it? Why not some other way? What are the pros and cons of it? What was the approach that is worse than this? This thinking made to me successful as a programmer till now and enhanced my interest in algorithms.
+
 During Bachelor in Computer Engineering, I started instagram page and website based on Artificial Intelligence where I made multiple courses and published them on my website so that everyone can learn for FREE.
 
 - 🔭 Admin, Content writer on graspcoding.com
