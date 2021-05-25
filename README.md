@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Sunil Ghimire!](https://sunilghimire.com.np/) 
 
 Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [@GRASCOING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. He have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
-That’s a brief of who he is and What he is looking for!
+<br>That’s a brief of who he is and What he is looking for!
 
 #### A bit deeper about myself. 
 
@@ -13,7 +13,7 @@ After from Computer Science Graduate, I started instagram page and website based
 
 - 🔭 Admin, Content writer on graspcoding.com
 - 🌱 Published Kindle eBook on Python
-- ⚡  Marketing collaboration with various teams
+- ⚡  Marketing collaboration with @AIHUBPROJECT
 
 [Download Resume](https://sunilghimire.com.np/)
 
@@ -22,10 +22,10 @@ After from Computer Science Graduate, I started instagram page and website based
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Mathematical Explaination of K-Modes Clustering ](https://aihubprojects.com/k-modes-clustering-algorithm-mathematical-scratch-implementation/)
-- [K-Means Scratch Implemrntation Python](https://aihubprojects.com/k-means-clustering-from-scratch-python/)
-- [Visualizing & Prediction Corona cases](https://aihubprojects.com/visualizing-predicting-corona-cases/)
-- [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/)
+- [Real Time Object Detection with Modified Yolo Neural Network](https://graspcoding.com/real-time-object-detection-with-modified-yolo-neural-network/)
+- [Linear Regression From Scratch](https://aihubprojects.com/linear-regression-from-scratch/)
+- [IPL First Innings Score Prediction Using ML Algorithm](https://graspcoding.com/ipl-first-innings-score-prediction-using-ml-algorithms/)
+- [50 Questions on Statistics & Machine Learning – Can you answer?](https://graspcoding.com/50-questions-on-statistics-machine-learning-can-you-answer/)
 <!-- BLOG-POST-LIST:END -->
 
 💬 **Stay Connected**
