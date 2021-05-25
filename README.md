@@ -4,14 +4,13 @@ Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Blogger 🙍�
 
 During Bachelor in Computer Engineering, I started instagram page and website based on Artificial Intelligence where I made multiple courses and published them on my website so that everyone can learn for FREE.
 
-- 🔭 Admin, Content writer on aihubprojects.com
+- 🔭 Admin, Content writer on graspcoding.com
 - 🌱 Published Kindle eBook on Python
-- 📫 Published Machine Learning From Scratch on Kindle
 - ⚡  Marketing collaboration with various teams
 
 [Download Resume](https://sunilghimire.com.np/)
 
-![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=Diwas524&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas524&layout=compact)
+![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-gh&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gh&layout=compact)
 
 
 📕 **Latest Blog Posts**
@@ -34,4 +33,4 @@ During Bachelor in Computer Engineering, I started instagram page and website ba
   <img align="left" alt="Sunil Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />
 </a>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Diwas524.Diwas524" alt="Visitors Counter">
+<img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
