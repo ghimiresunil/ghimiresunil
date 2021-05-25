@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Sunil Ghimire!](https://sunilghimire.com.np/) 
 
 Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [@GRASCOING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. He have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
-<br>That’s a brief of who he is and What he is looking for!
+<br><br>That’s a brief of who he is and What he is looking for!
 
 #### A bit deeper about myself. 
 
