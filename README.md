@@ -9,7 +9,7 @@ I am algorithm lover. This sprouted because I am mainly interested in how things
 
 Besides, this interest in reasoning made me to develop curiosity in understanding how Machine Learning and Deep Learning models actually work. What is the model learning at each step? I want to explore this BlackBox which he thinks would pave a way to make the Deep Learning models better. 
 
-After from Computer Science Graduate, I started instagram page and website based on Artificial Intelligence where I made multiple courses and published them on my website so that everyone can learn for FREE. 
+After from Computer Science Graduate, I started instagram page and website based on Artificial Intelligence where I worked on multiple project and published them on my website so that everyone can learn for FREE. 
 
 - 🔭 Admin, Content writer on graspcoding.com
 - 🌱 Published Kindle eBook on Python
