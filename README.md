@@ -30,17 +30,14 @@ After from Computer Science Graduate, I started instagram page and website based
 
 💬 **Stay Connected**
 
-<a href="https://sunilghimire.com.np">
-  <img align="left" alt="Sunil | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
-</a>
+<p>
+    <a href="mailto:info@sunilghimire.com.np"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://twitter.com/Ghimire12Sunil"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/ghimiresunil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/_tech_tutor/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<a href="https://poudyalanil.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 
-<a href="https://www.linkedin.com/in/ghimiresunil/">
-  <img align="left" alt="Sunil Linkedin" width="22px" src="https://www.pngfind.com/pngs/m/57-571935_linkedin-icon-vector-png-linkedin-circle-logo-transparent.png" />
-</a>
-
-<a href="https://www.instagram.com/_tech_tutor/">
-  <img align="left" alt="Sunil Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />
-</a>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
+## Profile Stat
+![Profile Stat](https://komarev.com/ghpvc/?username=poudyalanil&color=green)
+</p>
                                               
