@@ -36,7 +36,7 @@ After from Computer Science Graduate, I started instagram page and website based
   <a href="https://www.linkedin.com/in/ghimiresunil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/_tech_tutor/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://sunilghimire.com.np" height=25>
-  <img align="left" alt="Sunil | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
+ Website <img alt="Sunil | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
 </a>
 
 
