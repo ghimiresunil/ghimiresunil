@@ -5,9 +5,9 @@ Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Blogger 🙍�
 
 ### A bit deeper about myself. 
 
-I am algorithm lover. This sprouted because I am mainly interested in how things work the way they work. For example: If you give me an algorithm and they say that this works for a particular problem- my question would be how does it work? What’s the idea behind it? Why not some other way? What are the pros and cons of it? What was the approach that is worse than this? This thinking made to me successful as a programmer till now and enhanced my interest in algorithms.
+I am algorithm lover. This sprouted because I am mainly interested in how things work the way they work. For example: If you give me an algorithm and you say that this works for a particular problem- my question would be how does it work? What’s the idea behind it? Why not some other way? What are the pros and cons of it? What was the approach that is worse than this? This thinking made to me successful as a programmer till now and enhanced my interest in algorithms.
 
-Besides, this interest in reasoning made me to develop curiosity in understanding how Machine Learning and Deep Learning models actually work. What is the model learning at each step? I want to explore this BlackBox which he thinks would pave a way to make the Deep Learning models better. 
+Besides, this interest in reasoning made me to develop curiosity in understanding how Machine Learning and Deep Learning models actually work. What is the model learning at each step? I want to explore this BlackBox which I thinks would pave a way to make the Deep Learning models better. 
 
 After from Computer Science Graduate, I started instagram page and website based on Artificial Intelligence where I worked on multiple project and published them on my website so that everyone can learn for FREE. 
 
