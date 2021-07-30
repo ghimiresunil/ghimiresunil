@@ -38,6 +38,89 @@ After from Computer Science Graduate, I started instagram page and website based
   <a href="https://sunilghimire.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p>
 
+## Languages and Tools:
+<br/>
+<center>
+<table>
+<tbody align="center">
+ <tr>
+   
+<td align="center" width="25%">
+<span><b><center>HTML</center></b></span><br/> 
+<img height=75px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+
+   
+<td align="center" width="30%">
+<span><b><center>CSS</center></b></span><br/>  
+<img height=75px src="https://img.icons8.com/color/2x/css3.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Bootstrap</center></b></span><br/> 
+<img height=75px src="https://img.icons8.com/color/2x/bootstrap.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>JavaScript</center></b></span><br/>  
+<img height=75px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+</tr>
+
+<tr> 
+<td align="center" width="25%">
+<span><b><center>ReactJS</center></b></span><br/> 
+<img height=75px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>NodeJS</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>SQL</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+ <td align="center" width="25%">
+<span><b><center>Wordpress</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/dusk/64/000000/wordpress.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<span><b><center>Python</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+  
+<td align="center" width="25%">
+<span><b><center>Django</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/48/000000/django.png"/>
+</td>
+
+<td align="center" width="25%">
+<span><b><center>C</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Java</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
+</td>
+
+</tr>
+<tr>
+ <td align="center" width="25%">
+<span><b><center>Git</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
 👨 **Profile Stat**
     
 <img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
