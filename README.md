@@ -36,19 +36,19 @@ After from Computer Science Graduate, I started instagram page and website based
  <tr>
    
 <td align="center" width="25%">
-<span><b><center>HTML</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/color/2x/html-5.png"> 
+<span><b><center>Python</center></b></span><br/> 
+<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
    
 <td align="center" width="30%">
-<span><b><center>CSS</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/color/2x/css3.png"> 
+<span><b><center>OpenCV</center></b></span><br/>  
+<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
 </td>
 
 <td align="center" width="25%">
-<span><b><center>Bootstrap</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/color/2x/bootstrap.png"> 
+<span><b><center>PyTorch</center></b></span><br/> 
+<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
 </td>
 
 <td align="center" width="25%">
