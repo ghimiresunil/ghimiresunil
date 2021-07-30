@@ -52,8 +52,8 @@ After from Computer Science Graduate, I started instagram page and website based
 </td>
 
 <td align="center" width="25%">
-<span><b><center>JavaScript</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/color/2x/javascript.png"> 
+<span><b><center>Jupyter Notebook</center></b></span><br/>  
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
 </td>
 </tr>
 
@@ -124,11 +124,3 @@ After from Computer Science Graduate, I started instagram page and website based
 👨 **Profile Stat**
     
 <img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
-
-
-    
-
-
-
-
-                                              
