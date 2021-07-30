@@ -83,7 +83,7 @@ After from Computer Science Graduate, I started instagram page and website based
 <tr>
 <td align="center" width="25%">
 <span><b><center>Tensorflow</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png/>
+<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
 </td> 
 
 <td align="center" width="25%">
