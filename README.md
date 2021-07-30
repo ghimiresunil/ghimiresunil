@@ -73,20 +73,24 @@ After from Computer Science Graduate, I started instagram page and website based
 <img height=75px src="https://image.flaticon.com/icons/png/512/616/616563.png"> 
 </td>
 
-
+<td align="center" width="25%">
+<span><b><center>Matplotlib</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
 </td>
 
 </tr>
 
 <tr>
 <td align="center" width="25%">
+<span><b><center>Tensorflow</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png/>
+</td> 
+
+<td align="center" width="25%">
 <span><b><center>Keras</center></b></span> <br/>
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
 </td>
 
-<td align="center" width="25%">
-<span><b><center>Matplotlib</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                                                                                                                       
 <td align="center" width="25%">
 <span><b><center>MySQL</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
