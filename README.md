@@ -17,7 +17,7 @@ After from Computer Science Graduate, I started instagram page and website based
 
 [Download Resume](https://sunilghimire.com.np/)
 
-![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-gh&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gh&layout=compact)
+![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-gh&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/sunil-gh">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gh&layout=compact&theme=dark)](https://github.com/sunil-gh)</a>
 
 
 📕 **Latest Blog Posts**
