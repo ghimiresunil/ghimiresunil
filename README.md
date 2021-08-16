@@ -1,4 +1,11 @@
 ### Hey 👋🏽, I'm [Sunil Ghimire!](https://sunilghimire.com.np/) 
+<p>
+    <a href="mailto:info@sunilghimire.com.np"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://twitter.com/Ghimire12Sunil"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/ghimiresunil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/_tech_tutor/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://sunilghimire.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
+</p>
 
 Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [@GRASPCODING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
 <br><br>That’s a brief of who I am and What I am looking for!
@@ -115,15 +122,6 @@ After from Computer Science Graduate, I started instagram page and website based
 </table>
 
 💬 **Stay Connected**
-
-<p>
-    <a href="mailto:info@sunilghimire.com.np"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://twitter.com/Ghimire12Sunil"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/ghimiresunil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/_tech_tutor/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://sunilghimire.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
-</p>
-
 👨 **Profile Stat**
     
 <img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
