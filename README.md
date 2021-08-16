@@ -121,7 +121,6 @@ After from Computer Science Graduate, I started instagram page and website based
 </tbody>
 </table>
 
-💬 **Stay Connected**
 👨 **Profile Stat**
     
 <img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
