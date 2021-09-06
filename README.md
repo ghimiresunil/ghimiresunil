@@ -7,7 +7,7 @@
   <a href="https://sunilghimire.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p>
 
-Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I am a Machine Learning Engineer Associate 👨‍💻 [@FUSEMACHINES](https://fusemachines.com/).  Also, I am Blogger 🙍🏽‍♂️ [@GRASPCODING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
+Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning Engineer Associate 👨‍💻 [@FUSEMACHINES](https://fusemachines.com/).  Also, I'm Blogger 🙍🏽‍♂️ [@GRASPCODING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
 <br><br>That’s a brief of who I am and What I am looking for!
 
 ### A bit deeper about myself. 
