@@ -22,6 +22,8 @@ After from Computer Science Graduate, I started instagram page and website based
 - 🌱 Published Kindle eBook on Python
 - ⚡  I love math, programming, data science, and books
 - 🌎 I  addicted to learning and growing every day
+- 💬 Ask me about 👉 Anything
+- 😄 Pronouns: 👉 He/Him
 
 [Download Resume](https://sunilghimire.com.np/)
 
