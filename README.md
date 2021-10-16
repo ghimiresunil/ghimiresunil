@@ -27,7 +27,7 @@ After from Computer Science Graduate, I started instagram page and website based
 
 [Download Resume](https://sunilghimire.com.np/)
 
-![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-gh&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/sunil-gh">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gh&layout=compact&theme=dark)](https://github.com/sunil-gh)</a>
+![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=ghimiresunil&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/ghimiresunil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresunil&layout=compact&theme=dark)](https://github.com/ghimiresunil)</a>
 
 ## 😜Here's a Joke for you:
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -128,9 +128,9 @@ After from Computer Science Graduate, I started instagram page and website based
 
 👨 **Profile Stat**
     
-<img src="https://visitor-badge.glitch.me/badge?page_id=sunil-gh.sunil-gh" alt="Visitors Counter">
+<img src="https://visitor-badge.glitch.me/badge?page_id=ghimiresunil.ghimiresunil" alt="Visitors Counter">
 
 🐍 **Snake eating my contribution graph**
 <p align="center">
-  <img src="https://github.com/sunil-gh/sunil-gh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
