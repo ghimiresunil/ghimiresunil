@@ -25,6 +25,8 @@ After from Computer Science Graduate, I started instagram page and website based
 - 💬 Ask me about 👉 Anything
 - 😄 Pronouns: 👉 He/Him
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghimiresunil" alt="ghimiresunil" /></a> </p>
+
 [Download Resume](https://sunilghimire.com.np/)
 
 ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=ghimiresunil&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/ghimiresunil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresunil&layout=compact&theme=dark)](https://github.com/ghimiresunil)</a>
