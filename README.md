@@ -41,7 +41,7 @@ After from Computer Science Graduate, I started instagram page and website based
 - [IPL First Innings Score Prediction Using ML Algorithm](https://graspcoding.com/ipl-first-innings-score-prediction-using-ml-algorithms/)
 - [50 Questions on Statistics & Machine Learning – Can you answer?](https://graspcoding.com/50-questions-on-statistics-machine-learning-can-you-answer/)
 <!-- BLOG-POST-LIST:END -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimiresunil&" alt="ghimiresunil" /></p>
 ## Languages and Tools:
 <br/>
 <center>
