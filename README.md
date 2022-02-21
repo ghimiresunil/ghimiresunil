@@ -23,6 +23,7 @@ After from Computer Science Graduate, I started instagram page and website based
 - ⚡  I love math, programming, data science, and books
 - 🌎 I  addicted to learning and growing every day
 - 💬 Ask me about 👉 Anything
+- 😎 Introvert personality but extremely funny.
 - 😄 Pronouns: 👉 He/Him
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghimiresunil" alt="ghimiresunil" /></a> </p>
