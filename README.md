@@ -26,7 +26,7 @@ After from Computer Science Graduate, I started instagram page and website based
 - 🌎 I  addicted to learning and growing every day
 - 💬 Ask me about 👉 Anything
 - 😎 Introvert personality but extremely funny
-- zap Fun fact: I always think that Life is a Bollywood Movie.
+- ⚡  Fun fact: I always think that Life is a Bollywood Movie.
 - 🤪 Love to solve errors in code
 - 😄 Pronouns: 👉 He/Him
 
