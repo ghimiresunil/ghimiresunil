@@ -18,7 +18,7 @@ Besides, this interest in reasoning made me to develop curiosity in understandin
 
 After from Computer Science Graduate, I started instagram page and website based on Artificial Intelligence where I worked on multiple project and published them on my website so that everyone can learn for FREE. 
 
-<img align="right" width="400" height="250" src="https://drive.google.com/uc?export=view&id=1SBE9oKK4n9OzssC-RW0Z6xdFH_4M9rWJ">
+<img align="right" width="400" height="250" src="(https://user-images.githubusercontent.com/40186859/156171930-25fb9b49-7c32-4630-8305-704c7b949bae.jpeg)">
 
 - 🔭 Admin, Content writer on graspcoding.com
 - 🌱 Published Kindle eBook on Python
