@@ -20,7 +20,7 @@ After from Computer Science Graduate, I started instagram page and website based
 
 <img align="right" width="400" height="250" src="https://user-images.githubusercontent.com/40186859/156171930-25fb9b49-7c32-4630-8305-704c7b949bae.jpeg">
 
-- 🔭 Admin, Content writer on graspcoding.com
+- 🔭 Admin, Content writer on [@GRASPCODING.COM](https://graspcoding.com/)
 - 🌱 Published Kindle eBook on Python
 - ⚡  I love math, programming, data science, and books
 - 🌎 I  addicted to learning and growing every day
