@@ -118,7 +118,7 @@ After from Computer Science Graduate, I started instagram page and website based
 
 <td align="center" width="25%">
 <span><b><center>Linux</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/amazon-web-services.png"/>
+<img height=75px src="https://img.icons8.com/color/344/linux--v1.png"/>
 </td>
 
 </td>
