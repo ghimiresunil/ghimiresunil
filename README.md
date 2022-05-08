@@ -118,17 +118,24 @@ After from Computer Science Graduate, I started instagram page and website based
 
 <td align="center" width="25%">
 <span><b><center>Linux</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img height=75px src="https://img.icons8.com/color/344/amazon-web-services.png"/>
 </td>
 
 </td>
 
 </tr>
 <tr>
- <td align="center" width="25%">
+
+<td align="center" width="25%">
 <span><b><center>Git</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
+    
+<td align="center" width="25%">
+<span><b><center>Git</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+    
 </tr>
 
 </tbody>
