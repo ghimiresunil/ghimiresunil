@@ -90,7 +90,7 @@ After from Computer Science Graduate, I started instagram page and website based
 
 <td align="center" width="25%">
 <span><b><center>Pandas</center></b></span> <br/>
-<img height=75px src="https://image.flaticon.com/icons/png/512/616/616563.png"> 
+<img height=75px src="https://cdn-icons-png.flaticon.com/512/6485/6485718.png"> 
 </td>
 
 <td align="center" width="25%">
