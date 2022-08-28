@@ -113,10 +113,18 @@ _**I see myself contributing to the research and software development with exper
 </td>
 
 <td align="center" width="25%">
+<span><b><center>TF Board</center></b></span> <br/>
+<img height=75px src="https://user-images.githubusercontent.com/90909263/187078664-f149250b-b5fd-4b29-8a04-a5218e95c8c4.png"> 
+</td>
+    
+<td align="center" width="25%">
 <span><b><center>MySQL</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </td>
+</tr>
 
+
+<tr>
 <td align="center" width="25%">
 <span><b><center>Linux</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/344/linux--v1.png"/>
@@ -124,8 +132,7 @@ _**I see myself contributing to the research and software development with exper
 
 </td>
 
-</tr>
-<tr>
+
 
 <td align="center" width="25%">
 <span><b><center>Git</center></b></span> <br/>
@@ -141,6 +148,8 @@ _**I see myself contributing to the research and software development with exper
 <span><b><center>Docker</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/344/docker.png"> 
 </td>
+    
+
     
 </tr>
 
