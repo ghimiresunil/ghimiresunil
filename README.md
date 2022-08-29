@@ -107,9 +107,10 @@ _**I see myself contributing to the research and software development with exper
 <img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
 </td> 
 
+
 <td align="center" width="25%">
 <span><b><center>TF Board</center></b></span> <br/>
-<img height=75px src="https://o.remove.bg/downloads/7274b485-0827-4248-bd1b-9001824b47b9/187078664-f149250b-b5fd-4b29-8a04-a5218e95c8c4-removebg-preview.png"> 
+<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png"> 
 </td>
     
 <td align="center" width="25%">
