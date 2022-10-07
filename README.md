@@ -52,6 +52,49 @@ _**I see myself contributing to the research and software development with exper
 <!-- BLOG-POST-LIST:END -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimiresunil&" alt="ghimiresunil" /></p>
 
+## 🐱 My GitHub Data
+
+```text
+🌞 Morning    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+🌆 Daytime    307 commits    ██████████░░░░░░░░░░░░░░░   41.21% 
+🌃 Evening    243 commits    ████████░░░░░░░░░░░░░░░░░   32.62% 
+🌙 Night      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.84%
+
+```
+## 📅 I'm Most Productive on Sunday
+
+```text
+Monday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+Tuesday      85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
+Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
+Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
+Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Sunday       151 commits    █████░░░░░░░░░░░░░░░░░░░░   20.27%
+
+```
+
+
+## 📊 This Week I Spent My Time On 
+
+```text
+⌚︎ Time Zone: Asia/Nepal
+
+💬 Programming Languages: 
+Python                   15 hrs 40 mins      ███████████████████░░░░░░   78.38% 
+Docker                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
+Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
+HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+
+🔥 Editors: 
+VsCode                   20 hrs              █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    20 hrs              █████████████████████████   100.0%
+
+```
+
 ## Languages and Tools:
 <br/>
 <center>
@@ -165,4 +208,4 @@ _**I see myself contributing to the research and software development with exper
   <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-#### <p align="center"> Thank-You for reading, Share your ❤️ by starring some of repositories! </p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
