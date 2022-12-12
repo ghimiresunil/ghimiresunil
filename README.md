@@ -27,6 +27,7 @@ _**I see myself contributing to the research and software development with exper
 - 🔭 Admin, Content writer on [@GRASPCODING.COM](https://graspcoding.com/)
 - 🌱 Published Kindle eBook on Python
 - ⚡  I love math, programming, data science, and books
+- 🧠 I like to train Machine Learning models for Humans.
 - 🌎 I  addicted to learning and growing every day
 - 💬 Ask me about 👉 Anything
 - 😎 Introvert personality but extremely funny
