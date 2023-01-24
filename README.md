@@ -1,4 +1,5 @@
-### Hey 👋🏽, I'm [Sunil Ghimire!](https://sunilghimire.com.np/) 
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm [Sunil Ghimire!](https://sunilghimire.com.np/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 <p>
     <a href="mailto:info@sunilghimire.com.np"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://twitter.com/Ghimire12Sunil"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
@@ -6,6 +7,13 @@
   <a href="https://www.instagram.com/_tech_tutor/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://sunilghimire.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p>
+
+## 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/ghimiresunil/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" target="_blank"></a>
+
 
 Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning Engineer Associate 👨‍💻 [@FUSEMACHINES](https://fusemachines.com/).  Also, I'm Blogger 🙍🏽‍♂️ [@GRASPCODING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
 <br><br>That’s a brief of who I am and What I am looking for!
