@@ -216,13 +216,26 @@ Linux                    20 hrs              ███████████�
 
 </tbody>
 </table>
+<br> <br>
 
 👨 **Profile Stat**
-    
-<img src="https://visitor-badge.glitch.me/badge?page_id=ghimiresunil.ghimiresunil" alt="Visitors Counter">
 
-🐍 **Snake eating my contribution graph**
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ghimiresunil.ghimiresunil" alt="Visitors Counter" />
+<br> <br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 <p align="center">
   <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+  <br/><br/><br/>
+</div>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
