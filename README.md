@@ -15,7 +15,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://calendly.com/ghimiresunil/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" target="_blank"></a>
 
 
-Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning Engineer Associate 👨‍💻 [@FUSEMACHINES](https://fusemachines.com/).  Also, I'm Blogger 🙍🏽‍♂️ [@GRASPCODING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
+Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning Engineer 👨‍💻 [@FUSEMACHINES](https://fusemachines.com/).  Also, I'm Blogger 🙍🏽‍♂️ [@GRASPCODING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
 <br><br>That’s a brief of who I am and What I am looking for!
 
 ### A bit deeper about myself. 
