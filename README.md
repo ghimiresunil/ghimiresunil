@@ -1,242 +1,215 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm [Sunil Ghimire!](https://sunilghimire.com.np/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
-<p>
-    <a href="mailto:info@sunilghimire.com.np"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://twitter.com/Ghimire12Sunil"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/ghimiresunil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/_tech_tutor/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://sunilghimire.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
-</p>
-
-## 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/ghimiresunil/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" target="_blank"></a>
-
-
-Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning Engineer 👨‍💻 [@FUSEMACHINES](https://fusemachines.com/).  Also, I'm Blogger 🙍🏽‍♂️ [@GRASPCODING.COM](https://graspcoding.com/), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use his well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy literature and traveling.
-<br><br>That’s a brief of who I am and What I am looking for!
-
-### A bit deeper about myself. 
-
-I am algorithm lover. This sprouted because I am mainly interested in how things work the way they work. For example: If you give me an algorithm and you say that this works for a particular problem- my question would be how does it work? What’s the idea behind it? Why not some other way? What are the pros and cons of it? What was the approach that is worse than this? This thinking made to me successful as a programmer till now and enhanced my interest in algorithms.
-
-Besides, this interest in reasoning made me to develop curiosity in understanding how Machine Learning and Deep Learning models actually work. What is the model learning at each step? I want to explore this BlackBox which I thinks would pave a way to make the Deep Learning models better. 
-
-After from Computer Science Graduate, I started instagram page and website based on Artificial Intelligence where I worked on multiple project and published them on my website so that everyone can learn for FREE. 
-
-_**I see myself contributing to the research and software development with expertise in Machine Learning, Natural Language Processing and Cloud Computing.**_
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-<img align="right" width="400" height="250" src="https://user-images.githubusercontent.com/40186859/156171930-25fb9b49-7c32-4630-8305-704c7b949bae.jpeg">
-
-- 🔭 Admin, Content writer on [@GRASPCODING.COM](https://graspcoding.com/)
-- 🌱 Published Kindle eBook on Python
-- ⚡  I love math, programming, data science, and books
-- 🧠 I like to train Machine Learning models for Humans.
-- 📦 Python Package Owner — [**PyFoundry**](https://pypi.org/project/pyfoundry/) 
-- 🌎 I  addicted to learning and growing every day
-- 💬 Ask me about 👉 Anything
-- 😎 Introvert personality but extremely funny
-- ⚡  Fun fact: I always think that Life is a Bollywood Movie.
-- 🤪 Love to solve errors in code
-- 😄 Pronouns: 👉 He/Him
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghimiresunil" alt="ghimiresunil" /></a> </p>
-
-[Download Resume](https://sunilghimire.com.np/)
-
-![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=ghimiresunil&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/ghimiresunil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresunil&layout=compact&theme=dark)](https://github.com/ghimiresunil)</a>
-
-## 😜Here's a Joke for you:
-<img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Real Time Object Detection with Modified Yolo Neural Network](https://graspcoding.com/real-time-object-detection-with-modified-yolo-neural-network/)
-- [Linear Regression From Scratch](https://aihubprojects.com/linear-regression-from-scratch/)
-- [IPL First Innings Score Prediction Using ML Algorithm](https://graspcoding.com/ipl-first-innings-score-prediction-using-ml-algorithms/)
-- [50 Questions on Statistics & Machine Learning – Can you answer?](https://graspcoding.com/50-questions-on-statistics-machine-learning-can-you-answer/)
-<!-- BLOG-POST-LIST:END -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimiresunil&" alt="ghimiresunil" /></p>
-
-## 🐱 My GitHub Data
+<!--
+  ┌──────────────────────────────────────────────┐
+  │  Hey, you're reading the source. Respect. 🫡  │
+  │  sunil.ghimire --mode=geek --verbose         │
+  └──────────────────────────────────────────────┘
+-->
 
 ```text
-🌞 Morning    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-🌆 Daytime    307 commits    ██████████░░░░░░░░░░░░░░░   41.21% 
-🌃 Evening    243 commits    ████████░░░░░░░░░░░░░░░░░   32.62% 
-🌙 Night      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.84%
+   _____             _ __   ________    _               _
+  / ___/__  ______  (_) /  / ____/ /_  (_)___ ___  (_)_______
+  \__ \/ / / / __ \/ / /  / / __/ __ \/ / __ `__ \/ / ___/ _ \
+ ___/ / /_/ / / / / / /  / /_/ / / / / / / / / / / / /  /  __/
+/____/\__,_/_/ /_/_/_/   \____/_/ /_/_/_/ /_/ /_/_/_/   \___/
 
-```
-## 📅 I'm Most Productive on Sunday
-
-```text
-Monday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-Tuesday      85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
-Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
-Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-Sunday       151 commits    █████░░░░░░░░░░░░░░░░░░░░   20.27%
-
+        [ Machine Learning & Data Science Engineer ]
 ```
 
-
-## 📊 This Week I Spent My Time On 
-
-```text
-⌚︎ Time Zone: Asia/Nepal
-
-💬 Programming Languages: 
-Python                   15 hrs 40 mins      ███████████████████░░░░░░   78.38% 
-Docker                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
-Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
-HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
-
-🔥 Editors: 
-VsCode                   20 hrs              █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    20 hrs              █████████████████████████   100.0%
-
-```
-
-## Languages and Tools:
-<br/>
-<center>
-<table>
-<tbody align="center">
- <tr>
-   
-<td align="center" width="25%">
-<span><b><center>Python</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-
-   
-<td align="center" width="30%">
-<span><b><center>OpenCV</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>PyTorch</center></b></span><br/> 
-<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>Notebook</center></b></span><br/>  
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
-</td>
-</tr>
-
-<tr> 
-<td align="center" width="25%">
-<span><b><center>Sklearn</center></b></span><br/> 
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>NumPy</center></b></span> <br/>
-<img height=75px src="https://cdn.worldvectorlogo.com/logos/numpy.svg"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>Pandas</center></b></span> <br/>
-<img height=75px src="https://cdn-icons-png.flaticon.com/512/6485/6485718.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>Matplotlib</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
-</td>
-
-</tr>
-
-<tr>
-<td align="center" width="25%">
-<span><b><center>Tensorflow</center></b></span> <br/>
-<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
-</td> 
-
-
-<td align="center" width="25%">
-<span><b><center>TF Board</center></b></span> <br/>
-<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png"> 
-</td>
-    
-<td align="center" width="25%">
-<span><b><center>Keras</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>MySQL</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="25%">
-<span><b><center>Linux</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/linux--v1.png"/>
-</td>
-
-</td>
-
-<td align="center" width="25%">
-<span><b><center>Git</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-    
-<td align="center" width="25%">
-<span><b><center>AWS</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/amazon-web-services.png"> 
-</td>
-    
-<td align="center" width="25%">
-<span><b><center>Docker</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/docker.png"> 
-</td>
-    
-</tr>
-
-<tr>
-
-<td align="center" width="25%">
-<span><b><center>Hugging Face</center></b></span> <br/>
-<img height=75px src="https://editor.analyticsvidhya.com/uploads/6350167a2c0590affeba7880ebeb46a115d863972d8ba.png"/>
-</td>
-    
-</tr>
-
-</tbody>
-</table>
-<br> <br>
-
-👨 **Profile Stat**
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ghimiresunil.ghimiresunil" alt="Visitors Counter" />
-<br> <br>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
 <p align="center">
-  <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%5B+OK+%5D+Loading+kernel%3A+sunil-ghimire-v2026;%5B+OK+%5D+Mounting+%2Fdev%2Fmachine_learning;%5B+OK+%5D+Starting+data_science.service;%5B+OK+%5D+import+torch%2C+transformers%2C+pandas;%5B+OK+%5D+System+ready.+Awaiting+next+problem..." alt="boot sequence" />
 </p>
-  <br/><br/><br/>
-</div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p align="center">
+  <a href="https://sunilghimire.com.np"><img src="https://img.shields.io/badge/portfolio-sunilghimire.com.np-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/ghimiresunil/"><img src="https://img.shields.io/badge/linkedin-ghimiresunil-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117" /></a>
+  <a href="https://twitter.com/Ghimire12Sunil"><img src="https://img.shields.io/badge/x-@Ghimire12Sunil-0D1117?style=for-the-badge&logo=x&logoColor=39FF14&labelColor=0D1117" /></a>
+</p>
+<p align="center">
+  <a href="mailto:info@sunilghimire.com.np"><img src="https://img.shields.io/badge/mail-info@sunilghimire.com.np-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117" /></a>
+  <a href="https://graspcoding.com/"><img src="https://img.shields.io/badge/blog-graspcoding.com-0D1117?style=for-the-badge&logo=hashnode&logoColor=39FF14&labelColor=0D1117" /></a>
+  <a href="https://pypi.org/project/pyfoundry/"><img src="https://img.shields.io/badge/pypi-pyfoundry-0D1117?style=for-the-badge&logo=pypi&logoColor=39FF14&labelColor=0D1117" /></a>
+</p>
 
-<hr/>
+---
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+## `>_ whoami`
+
+```console
+sunil@ml-lab:~$ neofetch
+
+   ███████╗ ██████╗      sunil@ml-lab
+   ██╔════╝██╔════╝      ------------------------------------------
+   ███████╗██║  ███╗     Role ........ Machine Learning & Data Science Engineer
+   ╚════██║██║   ██║     Company ..... Fusemachines
+   ███████║╚██████╔╝     Host ........ Nepal 🇳🇵 (UTC+05:45)
+   ╚══════╝ ╚═════╝      Kernel ...... Python 3.x 🐍
+                         Shell ....... bash
+                         Editor ...... VS Code | nNvim
+                         OS .......... Linux
+                         Packages .... pyfoundry (pip)
+                         Uptime ...... always learning
+                         Coffee ...... ██████████ 100%
+```
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/40186859/156171930-25fb9b49-7c32-4630-8305-704c7b949bae.jpeg" alt="Sunil Ghimire" />
+
+```python
+>>> import sunil
+>>> help(sunil)
+```
+
+I'm a **Machine Learning & Data Science Engineer** working across the full ML lifecycle: raw data → EDA → feature engineering → training → evaluation → deployment.
+
+I'm an algorithms person at heart. Hand me a model and my first questions are: *Why does it work? What's the math? What did it beat, and at what cost?* That curiosity pulls me deep into **model interpretability**: cracking open the black box to see what a network actually learns, layer by layer.
+
+```python
+>>> sunil.motto
+'Understand it before you optimize it.'
+```
+
+<br clear="right"/>
+
+---
+
+## `>_ python -c "print(sunil.summary())"`
+
+```text
+Model: "SunilGhimire"
+_________________________________________________________________
+ Layer (type)                     Output                  Status
+=================================================================
+ data_ingestion (SQL, Pandas)     clean_dataframe         ✔ active
+ eda (NumPy, Matplotlib)          insights                ✔ active
+ feature_engineering (Sklearn)    feature_matrix          ✔ active
+ deep_learning (PyTorch, TF)      trained_weights         ✔ active
+ nlp (Transformers, HF)           embeddings, tokens      ✔ active
+ computer_vision (OpenCV, YOLO)   bounding_boxes          ✔ active
+ deployment (Docker, AWS)         prod_endpoint           ✔ active
+ interpretability (research)      open_black_box          ⟳ training
+=================================================================
+Trainable params: ∞     Non-trainable params: 0     Overfitting: no
+_________________________________________________________________
+```
+
+---
+
+## `>_ cat ~/.config/focus.yaml`
+
+```yaml
+machine_learning:
+  - supervised & unsupervised learning
+  - deep learning: CNNs, RNNs, Transformers
+  - natural language processing
+  - computer vision: object detection (YOLO)
+
+data_science:
+  - exploratory data analysis & statistics
+  - feature engineering & data pipelines
+  - predictive modeling & experimentation
+  - visualization & data storytelling
+
+engineering:
+  - model deployment & MLOps
+  - containerization: Docker
+  - cloud: AWS
+  - clean, tested, scalable Python
+```
+
+---
+
+## `>_ pip list --user`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,bash,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/transformers-🤗-0D1117?style=flat-square&labelColor=FFD21E" />
+  <img src="https://img.shields.io/badge/keras-latest-0D1117?style=flat-square&logo=keras&logoColor=white&labelColor=D00000" />
+  <img src="https://img.shields.io/badge/numpy-latest-0D1117?style=flat-square&logo=numpy&logoColor=white&labelColor=013243" />
+  <img src="https://img.shields.io/badge/pandas-latest-0D1117?style=flat-square&logo=pandas&logoColor=white&labelColor=150458" />
+  <img src="https://img.shields.io/badge/matplotlib-latest-0D1117?style=flat-square&logo=plotly&logoColor=white&labelColor=11557C" />
+  <img src="https://img.shields.io/badge/jupyter-latest-0D1117?style=flat-square&logo=jupyter&logoColor=white&labelColor=F37626" />
+  <img src="https://img.shields.io/badge/tensorboard-latest-0D1117?style=flat-square&logo=tensorflow&logoColor=white&labelColor=FF6F00" />
+</p>
+
+---
+
+## `>_ tail -f career.log`
+
+```diff
+@@ training log: sunil-ghimire @@
++ [epoch 01] Graduated in Computer Science          loss: ↓
++ [epoch 02] Launched @_tech_tutor & GraspCoding    loss: ↓↓
++ [epoch 03] Published a Kindle eBook on Python     loss: ↓↓↓
++ [epoch 04] Shipped PyFoundry to PyPI              loss: ↓↓↓↓
++ [epoch 05] ML & Data Science Engineer @ Fusemachines
+! [epoch ∞ ] still training... no early stopping planned
+```
+
+---
+
+## `>_ curl graspcoding.com/feed | head -4`
+
+<!-- BLOG-POST-LIST:START -->
+- [Real-Time Object Detection with a Modified YOLO Neural Network](https://graspcoding.com/real-time-object-detection-with-modified-yolo-neural-network/)
+- [Linear Regression From Scratch](https://aihubprojects.com/linear-regression-from-scratch/)
+- [IPL First Innings Score Prediction Using ML Algorithms](https://graspcoding.com/ipl-first-innings-score-prediction-using-ml-algorithms/)
+- [50 Questions on Statistics & Machine Learning: Can You Answer?](https://graspcoding.com/50-questions-on-statistics-machine-learning-can-you-answer/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## `>_ htop --user ghimiresunil`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ghimiresunil&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresunil&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ghimiresunil&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghimiresunil&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<details>
+<summary><b>⏱️ <code>wakatime --week</code> (click to expand)</b></summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+<p align="center">
+  <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+---
+
+## `>_ ./connect.sh`
+
+```python
+def connect(you):
+    if you.project in {"Machine Learning", "Data Science", "NLP", "Open Source"}:
+        return sunil.collaborate(you)   # 🤝
+    return sunil.chat(you)              # ☕ always open to a good conversation
+```
+
+```console
+$ open https://calendly.com/ghimiresunil/30min     # include an agenda, please
+$ open https://www.linkedin.com/in/ghimiresunil/
+$ wget https://sunilghimire.com.np/resume          # 📄
+```
+
+[📅 Book a call](https://calendly.com/ghimiresunil/30min) · [💼 LinkedIn](https://www.linkedin.com/in/ghimiresunil/) · [📄 Resume](https://sunilghimire.com.np/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghimiresunil&color=39FF14&style=flat-square&label=$+visitors" alt="Profile views" />
+</p>
+
+<p align="center"><code>// exit 0 — thanks for visiting ✌️</code></p>
