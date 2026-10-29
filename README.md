@@ -44,7 +44,7 @@ sunil@ml-lab:~$ neofetch
    ███████║╚██████╔╝     Host ........ Nepal 🇳🇵 (UTC+05:45)
    ╚══════╝ ╚═════╝      Kernel ...... Python 3.x 🐍
                          Shell ....... bash
-                         Editor ...... VS Code | nNvim
+                         Editor ...... VS Code | Nvim
                          OS .......... Linux
                          Packages .... pyfoundry (pip)
                          Uptime ...... always learning
